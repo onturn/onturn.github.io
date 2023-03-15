@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>onturn on onturnブログ</title>
-    <link>https://example.com/author/onturn/</link>
+    <link>https://onturn.github.io/author/onturn/</link>
     <description>Recent content in onturn on onturnブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 17:06:54 +0900</lastBuildDate><atom:link href="https://example.com/author/onturn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 17:06:54 +0900</lastBuildDate><atom:link href="https://onturn.github.io/author/onturn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログ引っ越しします</title>
-      <link>https://example.com/posts/2023/02/07/my-blog-moving/</link>
+      <link>https://onturn.github.io/posts/2023/02/07/my-blog-moving/</link>
       <pubDate>Tue, 07 Feb 2023 17:06:54 +0900</pubDate>
       
-      <guid>https://example.com/posts/2023/02/07/my-blog-moving/</guid>
+      <guid>https://onturn.github.io/posts/2023/02/07/my-blog-moving/</guid>
       <description>ようやく、数年越しに、ブログを引っ越すことにしました。 ちょっと調べた結果、無料でWordpressというのはむずかしい。このブログの内容から</description>
     </item>
     
     <item>
       <title>VSCodeでVB.NETのメソッド一覧を表示する</title>
-      <link>https://example.com/posts/2021/12/09/vscode-vbnet-method-list/</link>
+      <link>https://onturn.github.io/posts/2021/12/09/vscode-vbnet-method-list/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2021/12/09/vscode-vbnet-method-list/</guid>
+      <guid>https://onturn.github.io/posts/2021/12/09/vscode-vbnet-method-list/</guid>
       <description>丸4年以上放置していていきなりこの話題というのもなんですが。 そもそも、このサイト、いろいろ問題があって、今どきhttpsじゃないとか、なんだ</description>
     </item>
     
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – Nitrogen OS編 –</title>
-      <link>https://example.com/posts/2017/11/28/nitrogen-os/</link>
+      <link>https://onturn.github.io/posts/2017/11/28/nitrogen-os/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/11/28/nitrogen-os/</guid>
+      <guid>https://onturn.github.io/posts/2017/11/28/nitrogen-os/</guid>
       <description>相当長い間、更新していませんでしたが、久々に新しいカスタムROMを試してみました。 前のエントリでうまくいったと報告したAOSP Extende</description>
     </item>
     
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – AOSP Extended編 –</title>
-      <link>https://example.com/posts/2017/02/27/aosp-extended/</link>
+      <link>https://onturn.github.io/posts/2017/02/27/aosp-extended/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/02/27/aosp-extended/</guid>
+      <guid>https://onturn.github.io/posts/2017/02/27/aosp-extended/</guid>
       <description>とある掲示板で、AOSP ExtendedなるROMで、auの3G通話SIMのDSDSができた、という情報を見かけました。データ通信側がauの</description>
     </item>
     
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – LineageOS 14.1編 –</title>
-      <link>https://example.com/posts/2017/02/04/kenzo-lineageos-dsds/</link>
+      <link>https://onturn.github.io/posts/2017/02/04/kenzo-lineageos-dsds/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/02/04/kenzo-lineageos-dsds/</guid>
+      <guid>https://onturn.github.io/posts/2017/02/04/kenzo-lineageos-dsds/</guid>
       <description>懲りもせず、新しいカスタムROMに挑戦です。 今回は、CyanogenMod改めLineageOSの20170131-nightlyを入れてみ</description>
     </item>
     
     <item>
       <title>Beanstalk1/16版</title>
-      <link>https://example.com/posts/2017/01/20/beanstalk0116/</link>
+      <link>https://onturn.github.io/posts/2017/01/20/beanstalk0116/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/20/beanstalk0116/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/20/beanstalk0116/</guid>
       <description>1/16版にチャレンジしてみました。今回もダメでした。指紋認証は使えましたが、au3G回線が使えず。au3GのSIM1枚だと、電話番号も正常</description>
     </item>
     
     <item>
       <title>フォッシルQクルーマスターその後</title>
-      <link>https://example.com/posts/2017/01/15/fossil-qcrewmaster-after/</link>
+      <link>https://onturn.github.io/posts/2017/01/15/fossil-qcrewmaster-after/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/15/fossil-qcrewmaster-after/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/15/fossil-qcrewmaster-after/</guid>
       <description>使い始めから1週間ほど経過しました。調子よく動いています。 接続状況 日に何度かは切断されてしまいます。スマホのアプリ節電設定なども変えてみたん</description>
     </item>
     
     <item>
       <title>Beanstalkその後</title>
-      <link>https://example.com/posts/2017/01/09/beanstalk-after/</link>
+      <link>https://onturn.github.io/posts/2017/01/09/beanstalk-after/</link>
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/09/beanstalk-after/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/09/beanstalk-after/</guid>
       <description>昨年末から普段使いしているBeanstalk(12/7版)ですが、だいたい安定して使えています。使えない部分も安定していて、私の端末では前に</description>
     </item>
     
     <item>
       <title>Fossilハイブリッドスマートウォッチ</title>
-      <link>https://example.com/posts/2017/01/08/fossil-hybrid-smartwatch/</link>
+      <link>https://onturn.github.io/posts/2017/01/08/fossil-hybrid-smartwatch/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/08/fossil-hybrid-smartwatch/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/08/fossil-hybrid-smartwatch/</guid>
       <description>フォッシルの「Qクルーマスター ブルーシリコンハイブリッドスマートウォッチ」を買いました。 かなり以前からスマートウォッチ的なものが欲しかったん</description>
     </item>
     
     <item>
       <title>中華製WiiU Proコントローラ</title>
-      <link>https://example.com/posts/2016/12/20/china-wiiu-pro-controller/</link>
+      <link>https://onturn.github.io/posts/2016/12/20/china-wiiu-pro-controller/</link>
       <pubDate>Tue, 20 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/20/china-wiiu-pro-controller/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/20/china-wiiu-pro-controller/</guid>
       <description>GearBestから購入した中華製WiiU Proコントローラ。1台1,500円なので、純正の1/2〜1/3というところ。動くかどうか、という</description>
     </item>
     
     <item>
       <title>ヒートテックウルトラウォーム(超極暖)</title>
-      <link>https://example.com/posts/2016/12/19/heattech-ultrawarm/</link>
+      <link>https://onturn.github.io/posts/2016/12/19/heattech-ultrawarm/</link>
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/19/heattech-ultrawarm/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/19/heattech-ultrawarm/</guid>
       <description>今日、12/19に発売されたユニクロの「ヒートテックウルトラウォーム」を買いました。早速来てみてるんですが、こんなもんかなー、という感想です</description>
     </item>
     
     <item>
       <title>GearBestの配送例</title>
-      <link>https://example.com/posts/2016/12/18/example-delivery-gearbest/</link>
+      <link>https://onturn.github.io/posts/2016/12/18/example-delivery-gearbest/</link>
       <pubDate>Sun, 18 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/18/example-delivery-gearbest/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/18/example-delivery-gearbest/</guid>
       <description>WiiU Proコントローラーを2つほど買いたくて、探してみると1台3,000円以上する状況。買いたい理由が、息子からの、ハマっているマイクラに親も</description>
     </item>
     
     <item>
       <title>Yahooかんたんカレンダーがクラッシュする</title>
-      <link>https://example.com/posts/2016/12/16/crash-yahoo-easy-calendar/</link>
+      <link>https://onturn.github.io/posts/2016/12/16/crash-yahoo-easy-calendar/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/16/crash-yahoo-easy-calendar/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/16/crash-yahoo-easy-calendar/</guid>
       <description>Slim7でも同じ挙動だったんですが、BeanStalkでYahooかんたんカレンダーがクラッシュします。 Googleカレンダーを見るのに愛</description>
     </item>
     
     <item>
       <title>BeanStalkがいい感じ</title>
-      <link>https://example.com/posts/2016/12/15/beanstalk-is-good/</link>
+      <link>https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/15/beanstalk-is-good/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/</guid>
       <description>auの3G通話SIMが使えるDSDS端末、Redmi Note 3 Pro(kenzo)。でも、なかなかいいカスタムROMに巡り会えていませんでした。そ</description>
     </item>
     

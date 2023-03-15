@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>others on onturnブログ</title>
-    <link>https://example.com/categories/others/</link>
+    <link>https://onturn.github.io/categories/others/</link>
     <description>Recent content in others on onturnブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 17:06:54 +0900</lastBuildDate><atom:link href="https://example.com/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 17:06:54 +0900</lastBuildDate><atom:link href="https://onturn.github.io/categories/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログ引っ越しします</title>
-      <link>https://example.com/posts/2023/02/07/my-blog-moving/</link>
+      <link>https://onturn.github.io/posts/2023/02/07/my-blog-moving/</link>
       <pubDate>Tue, 07 Feb 2023 17:06:54 +0900</pubDate>
       
-      <guid>https://example.com/posts/2023/02/07/my-blog-moving/</guid>
+      <guid>https://onturn.github.io/posts/2023/02/07/my-blog-moving/</guid>
       <description>ようやく、数年越しに、ブログを引っ越すことにしました。 ちょっと調べた結果、無料でWordpressというのはむずかしい。このブログの内容から</description>
     </item>
     
     <item>
       <title>フォッシルQクルーマスターその後</title>
-      <link>https://example.com/posts/2017/01/15/fossil-qcrewmaster-after/</link>
+      <link>https://onturn.github.io/posts/2017/01/15/fossil-qcrewmaster-after/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/15/fossil-qcrewmaster-after/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/15/fossil-qcrewmaster-after/</guid>
       <description>使い始めから1週間ほど経過しました。調子よく動いています。 接続状況 日に何度かは切断されてしまいます。スマホのアプリ節電設定なども変えてみたん</description>
     </item>
     
     <item>
       <title>Fossilハイブリッドスマートウォッチ</title>
-      <link>https://example.com/posts/2017/01/08/fossil-hybrid-smartwatch/</link>
+      <link>https://onturn.github.io/posts/2017/01/08/fossil-hybrid-smartwatch/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/08/fossil-hybrid-smartwatch/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/08/fossil-hybrid-smartwatch/</guid>
       <description>フォッシルの「Qクルーマスター ブルーシリコンハイブリッドスマートウォッチ」を買いました。 かなり以前からスマートウォッチ的なものが欲しかったん</description>
     </item>
     
     <item>
       <title>中華製WiiU Proコントローラ</title>
-      <link>https://example.com/posts/2016/12/20/china-wiiu-pro-controller/</link>
+      <link>https://onturn.github.io/posts/2016/12/20/china-wiiu-pro-controller/</link>
       <pubDate>Tue, 20 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/20/china-wiiu-pro-controller/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/20/china-wiiu-pro-controller/</guid>
       <description>GearBestから購入した中華製WiiU Proコントローラ。1台1,500円なので、純正の1/2〜1/3というところ。動くかどうか、という</description>
     </item>
     
     <item>
       <title>GearBestの配送例</title>
-      <link>https://example.com/posts/2016/12/18/example-delivery-gearbest/</link>
+      <link>https://onturn.github.io/posts/2016/12/18/example-delivery-gearbest/</link>
       <pubDate>Sun, 18 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/18/example-delivery-gearbest/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/18/example-delivery-gearbest/</guid>
       <description>WiiU Proコントローラーを2つほど買いたくて、探してみると1台3,000円以上する状況。買いたい理由が、息子からの、ハマっているマイクラに親も</description>
     </item>
     

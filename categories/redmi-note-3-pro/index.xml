@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redmi note 3 Pro on onturnブログ</title>
-    <link>https://example.com/categories/redmi-note-3-pro/</link>
+    <link>https://onturn.github.io/categories/redmi-note-3-pro/</link>
     <description>Recent content in Redmi note 3 Pro on onturnブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0900</lastBuildDate><atom:link href="https://example.com/categories/redmi-note-3-pro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0900</lastBuildDate><atom:link href="https://onturn.github.io/categories/redmi-note-3-pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – Nitrogen OS編 –</title>
-      <link>https://example.com/posts/2017/11/28/nitrogen-os/</link>
+      <link>https://onturn.github.io/posts/2017/11/28/nitrogen-os/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/11/28/nitrogen-os/</guid>
+      <guid>https://onturn.github.io/posts/2017/11/28/nitrogen-os/</guid>
       <description>相当長い間、更新していませんでしたが、久々に新しいカスタムROMを試してみました。 前のエントリでうまくいったと報告したAOSP Extende</description>
     </item>
     
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – AOSP Extended編 –</title>
-      <link>https://example.com/posts/2017/02/27/aosp-extended/</link>
+      <link>https://onturn.github.io/posts/2017/02/27/aosp-extended/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/02/27/aosp-extended/</guid>
+      <guid>https://onturn.github.io/posts/2017/02/27/aosp-extended/</guid>
       <description>とある掲示板で、AOSP ExtendedなるROMで、auの3G通話SIMのDSDSができた、という情報を見かけました。データ通信側がauの</description>
     </item>
     
     <item>
       <title>Redmi Note 3 Proでau 3G &#43; docomo MVNO – LineageOS 14.1編 –</title>
-      <link>https://example.com/posts/2017/02/04/kenzo-lineageos-dsds/</link>
+      <link>https://onturn.github.io/posts/2017/02/04/kenzo-lineageos-dsds/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/02/04/kenzo-lineageos-dsds/</guid>
+      <guid>https://onturn.github.io/posts/2017/02/04/kenzo-lineageos-dsds/</guid>
       <description>懲りもせず、新しいカスタムROMに挑戦です。 今回は、CyanogenMod改めLineageOSの20170131-nightlyを入れてみ</description>
     </item>
     
     <item>
       <title>Beanstalk1/16版</title>
-      <link>https://example.com/posts/2017/01/20/beanstalk0116/</link>
+      <link>https://onturn.github.io/posts/2017/01/20/beanstalk0116/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/20/beanstalk0116/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/20/beanstalk0116/</guid>
       <description>1/16版にチャレンジしてみました。今回もダメでした。指紋認証は使えましたが、au3G回線が使えず。au3GのSIM1枚だと、電話番号も正常</description>
     </item>
     
     <item>
       <title>Beanstalkその後</title>
-      <link>https://example.com/posts/2017/01/09/beanstalk-after/</link>
+      <link>https://onturn.github.io/posts/2017/01/09/beanstalk-after/</link>
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2017/01/09/beanstalk-after/</guid>
+      <guid>https://onturn.github.io/posts/2017/01/09/beanstalk-after/</guid>
       <description>昨年末から普段使いしているBeanstalk(12/7版)ですが、だいたい安定して使えています。使えない部分も安定していて、私の端末では前に</description>
     </item>
     
     <item>
       <title>BeanStalkがいい感じ</title>
-      <link>https://example.com/posts/2016/12/15/beanstalk-is-good/</link>
+      <link>https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://example.com/posts/2016/12/15/beanstalk-is-good/</guid>
+      <guid>https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/</guid>
       <description>auの3G通話SIMが使えるDSDS端末、Redmi Note 3 Pro(kenzo)。でも、なかなかいいカスタムROMに巡り会えていませんでした。そ</description>
     </item>
     
