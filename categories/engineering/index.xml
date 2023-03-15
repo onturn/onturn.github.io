@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on onturnブログ</title>
+    <link>https://example.com/categories/engineering/</link>
+    <description>Recent content in Engineering on onturnブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://example.com/categories/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VSCodeでVB.NETのメソッド一覧を表示する</title>
+      <link>https://example.com/posts/2021/12/09/vscode-vbnet-method-list/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://example.com/posts/2021/12/09/vscode-vbnet-method-list/</guid>
+      <description>丸4年以上放置していていきなりこの話題というのもなんですが。 そもそも、このサイト、いろいろ問題があって、今どきhttpsじゃないとか、なんだ</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+.indent {
+  /*text-indent: 1em;*/
+  padding-left: 1em;
+}
+
+.bilberry-hugo-theme article .content img.defaultImage {
+  margin: 0.5em auto;
+}
+
+.bilberry-hugo-theme article .content img.inlineImage {
+  margin: 0.5em auto;
+  display: inline;
+}
