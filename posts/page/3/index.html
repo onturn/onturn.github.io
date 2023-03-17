@@ -15,20 +15,18 @@
     <title>
         
            
-               BeanStalkがいい感じ &vert; onturnブログ
+               Posts &vert; onturnブログ
            
         
     </title>
-    <meta itemprop="name" content="BeanStalkがいい感じ">
-    <meta itemprop="description" content="BeanStalkがいい感じ - onturnブログ">
+    <meta itemprop="name" content="Posts">
+    <meta itemprop="description" content="Posts - onturnブログ">
     <meta property="og:site_name" content="onturnブログ">
 
-    <meta property="og:title" content="BeanStalkがいい感じ" />
-<meta property="og:description" content="auの3G通話SIMが使えるDSDS端末、Redmi Note 3 Pro(kenzo)。でも、なかなかいいカスタムROMに巡り会えていませんでした。そ" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2016-12-15T00:00:00+09:00" />
-<meta property="article:modified_time" content="2016-12-15T00:00:00+09:00" />
+    <meta property="og:title" content="Posts" />
+<meta property="og:description" content="onturnブログ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://onturn.github.io/posts/" />
 
 
     
@@ -37,12 +35,12 @@
     <script src="/modernizr-simple.js"></script>
 
     
-    <link href="/posts/2016/12/15/beanstalk-is-good/" rel="alternate" type="application/rss+xml" title="onturnブログ" />
-    <link href="/posts/2016/12/15/beanstalk-is-good/" rel="feed" type="application/rss+xml" title="onturnブログ" />
+    <link href="/posts/" rel="alternate" type="application/rss+xml" title="onturnブログ" />
+    <link href="/posts/" rel="feed" type="application/rss+xml" title="onturnブログ" />
     
 
     
-    <link rel="canonical" href="https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/">
+    <link rel="canonical" href="https://onturn.github.io/posts/">
     
 
     <link rel="stylesheet" href="https://onturn.github.io/theme.css">
@@ -121,9 +119,11 @@
 
     <div class="main container">
         
-    <div class="article-wrapper u-cf single">
-        
-            <a class="bubble" href="https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/">
+    
+    
+        <div class="article-wrapper u-cf">
+            
+                <a class="bubble" href="https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -173,28 +173,11 @@
     </div>
 
     
+        auの3G通話SIMが使えるDSDS端末、Redmi Note 3 Pro(kenzo)。でも、なかなかいいカスタムROMに巡り会えていませんでした。そ
+
         
-
-        <p>auの3G通話SIMが使えるDSDS端末、Redmi Note 3 Pro(kenzo)。でも、なかなかいいカスタムROMに巡り会えていませんでした。そして今日、良さげなBeanStalkに出会いました。</p>
-<p>なお、ここで使っている「auの3G通話SIM」は、GRATINA 2で使っていたPRL60なSIMです。</p>
-<h4 id="xiaomieu版miui">xiaomi.eu版MIUI</h4>
-<p class="indent">何の工夫もせずauの3G通話SIMが使えて、全体的に安定している。もちろん、指紋認証も全く問題なし。でも元がMIUIだけにいろいろと癖があって…。半年ぐらいは(仕方なく)使ってました。日本語ロケールありません。</p>
-<h4 id="slim7slimroms">Slim7(SlimRoms)</h4>
-<p class="indent">Nougatベース。MIUIからなんとか脱却したくて、CM14.1を始めとしてあれこれ試していましたが、どうにもCDMA2000が掴めなくて断念していた中で、ふと試したこいつが、ヒット！　AOSPベースなんですかね？　あんまりカスタマイズ要素は多くないです。あと、指紋認証に少し気になる問題がありました。半月ぐらい使ってました。</p>
-<h4 id="beanstalk">BeanStalk</h4>
-<p class="indent">これもNougatベース。Slim7の指紋認証の問題をなんとかしたくてちょっと試してみたところ、CDMA2000掴むじゃないですか！　CMベースということでだめだと思っていたんですが、嬉しい誤算です。ところが、指紋認証の登録で設定アプリが落ちるという致命的な問題にぶちあたり、一度は導入をあきらめました。</p>
-<p class="indent">元の環境に戻そうとTWRPで取っておいたSlim7のバックアップをリストアしたところ、なぜかCDMA2000が見えない。試しにxiaomi.eu版MIUIを入れてみると、全く問題なく通話可能。ところがSlim7をクリーンな状態でインストールし直してもCDMA2000は掴めないという、ちょっと意味がわからない状態になってしまったのでした。</p>
-<p class="indent">あきらめてxiaomi.eu版MIUIに戻るしかないのか…と思った時に思い出したのが、このBeanStalk。もし、BeanStalkでCDMA2000が使えるなら、指紋認証は(修正されるまで)しばらくあきらめてもいいかな、と思ってインストールしたら、CDMA2000はバッチリでした。</p>
-<p class="indent">そして、指紋認証はやはり登録できず。一旦指紋認証はあきらめて、環境の手動リストアをひと通りやって、ふと、同じ問題で困っている人はいないかと検索してみたら…なんかそれらしい情報が見つかりました。そこには「先にパターン認証を登録するとできるよ」って書いてあります。そういえば、指紋認証使おうとしてパターン認証が登録されていないと、先にそれを登録せよと促されますね、正常な場合。書いてあるとおりに先にパターンを登録したら、無事指紋が登録できるようになりました！！</p>
-<p class="indent">動画の撮影ができない、とか、Yahooかんたんカレンダーが動かない、とかちょこちょこ気になるところはありますが、そのへんはSlim7でも同じだったのでCM14.1が熟成すればそのうち直るかな、なんて思ってます。</p>
-
-
-<a href="/posts/2016/12/15/beanstalk-is-good/Screenshot_20161215-220615.png" target="_blank">
-  <img class="defaultImage" src="/posts/2016/12/15/beanstalk-is-good/Screenshot_20161215-220615_hub482536ec30908393de857284ee451a2_143810_300x0_resize_box_3.png" alt="/posts/2016/12/15/beanstalk-is-good/Screenshot_20161215-220615.png" />
-</a>
-
-
-
+            <a href="https://onturn.github.io/posts/2016/12/15/beanstalk-is-good/" class="more">続きを読む</a>
+        
     
 </div>
 
@@ -209,20 +192,20 @@
 
 </article>
 
+            
+        </div>
+    
+
+    
+    <div class="paginator">
+        
+
+        
+            <a href="/posts/page/2/" class="newer">新しい投稿 <i class="fa fa-angle-double-right"></i></a>
         
     </div>
 
-    
-        <div id="comments-container">
-            
-            
 
-            
-
-            
-
-        </div>
-    
 
     </div>
 
@@ -343,7 +326,8 @@
                 
                 by onturn
             </a>
-            
+            -
+            <a href="https://onturn.github.io/posts/index.xml">RSS</a>
         </div>
         <div class="author">
             <a href="https://github.com/Lednerb/bilberry-hugo-theme"
