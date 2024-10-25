@@ -29,7 +29,6 @@
             .readText()
             .then(function(clipText) {
                 clipText = clipText.replace(/-/g, '');
-                alert(clipText);
                 var re = /^\d+$/;
                 if (re.test(clipText)) {
                     document.getElementById('number').value = clipText
