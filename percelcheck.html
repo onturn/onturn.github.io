@@ -27,8 +27,13 @@
     <script>
         navigator.clipboard
             .readText()
-            .then((clipText) => (document.getElementById('number').value = clipText));
-
+            .then(function(clipText) {
+                var re = /^[0-9-]+$/;
+                if (re.test(clipText)) {
+                    document.getElementById('number').value = clipText
+                }
+            });
+        
         document.getElementById('number').focus();
 
         function exec_yamato() {
