@@ -28,7 +28,9 @@
         navigator.clipboard
             .readText()
             .then(function(clipText) {
-                var re = /^[0-9-]+$/;
+                clipText = clipText.replace(/-/g, '');
+                alert(clipText);
+                var re = /^\d+$/;
                 if (re.test(clipText)) {
                     document.getElementById('number').value = clipText
                 }
