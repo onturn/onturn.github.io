@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+ <meta charset="utf-8">
+ <title>宅配便追跡</title>
+ <style>
+    button {
+        background-color: rgb(22, 151, 243);
+        border-color: rgb(22, 151, 243);
+        border-radius: 50px;
+        color: #fff;
+        padding: 10px 60px;
+        margin: 20px 5px;
+    }
+ </style>
+ </head>
+
+ <body>
+    <form>
+        <label for="number">お問い合わせ番号: </label>
+        <input type="text" id="number" /><br />
+        <button type="button" onclick="exec_yamato()">ヤマト追跡</button>
+        <button type="button" onclick="exec_sagawa()">佐川追跡</button>
+        <button type="button" onclick="exec_japanpost()">日本郵便追跡</button>
+    </form>
+
+    <script>
+        navigator.clipboard
+            .readText()
+            .then((clipText) => (document.getElementById('number').value = clipText));
+
+        document.getElementById('number').focus();
+
+        function exec_yamato() {
+            location.href = 'https://member.kms.kuronekoyamato.co.jp/parcel/detail?pno=' + document.getElementById('number').value;
+        }
+
+        function exec_sagawa() {
+            location.href = 'https://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=' + document.getElementById('number').value;
+        }
+
+        function exec_japanpost() {
+            location.href = 'https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S003&locale=ja&SVID=023&reqCodeNo1=' + document.getElementById('number').value;
+        }
+</script>
+ </body>
+</html>
