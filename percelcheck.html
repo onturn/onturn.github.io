@@ -28,8 +28,7 @@
         navigator.clipboard
             .readText()
             .then(function(clipText) {
-                clipText = clipText.replace(/-/g, '');
-                var re = /^\d+$/;
+                var re = /^[\d-]+$/;
                 if (re.test(clipText)) {
                     document.getElementById('number').value = clipText
                 }
@@ -37,16 +36,20 @@
         
         document.getElementById('number').focus();
 
+        function formatNumber(number) {
+            return number.replace(/-/g, '');
+        }
+
         function exec_yamato() {
-            location.href = 'https://member.kms.kuronekoyamato.co.jp/parcel/detail?pno=' + document.getElementById('number').value;
+            location.href = 'https://member.kms.kuronekoyamato.co.jp/parcel/detail?pno=' + formatNumber(document.getElementById('number').value);
         }
 
         function exec_sagawa() {
-            location.href = 'https://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=' + document.getElementById('number').value;
+            location.href = 'https://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=' + formatNumber(document.getElementById('number').value);
         }
 
         function exec_japanpost() {
-            location.href = 'https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S003&locale=ja&SVID=023&reqCodeNo1=' + document.getElementById('number').value;
+            location.href = 'https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S003&locale=ja&SVID=023&reqCodeNo1=' + formatNumber(document.getElementById('number').value);
         }
 </script>
  </body>
